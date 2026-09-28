@@ -71,5 +71,5 @@ Make sure Python 3.9+ is installed on your machine.
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/claudiajakab22/image-dehazing-interface.git](https://github.com/claudiajakab22/image-dehazing-interface.git)
-   cd image-dehazing-interface
+   git clone [https://github.com/claudiajakab22/image-dehaze.git](https://github.com/claudiajakab22/image-dehaze.git)
+   cd image-dehaze
