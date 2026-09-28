@@ -1,4 +1,4 @@
-# Fast Single Image Dehazing using Mathematical Morphology
+# Image Dehazing by Mathematical Morphology
 
 An interactive desktop application for image haze removal and contrast restoration, built with **Python**, **OpenCV**, and a **Tkinter** GUI. The project implements an efficient hybrid pipeline that couples the physical **Dark Channel Prior (DCP)** model with fast **Mathematical Morphology** operations (Closing & Opening) to refine transmission maps without the computational cost of traditional soft matting.
 
